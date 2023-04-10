@@ -1,6 +1,5 @@
 # Image Uploader
-trying to implement the things I learned in Django 
-The Code is present in the master branch 
+CODE IS PRESENT IN THE MASTER BRANCH
 
 This project is a simple image uploader web application built with Django. Users can upload images to the application, and the uploaded images will be displayed on the home page. The uploaded images can be viewed individually, and users can also delete the uploaded images.
 
@@ -40,13 +39,16 @@ python manage.py createsuperuser
 python manage.py runserver
 
 9. Access the application at http://localhost:8000.
-Usage
+
+
+## Usage
 Register or log in to the application.
 Click on the "Upload" button to upload an image.
 Click on the image to view it.
 Click on the "Delete" button to delete the image.
-Contributing
+
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
